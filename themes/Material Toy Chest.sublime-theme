@@ -6,6 +6,8 @@
 
     {
         "class": "title_bar",
+        "settings": ["material_theme_title_bar"],
+        "platforms": ["osx"],
         "fg": [251, 251, 251],
         "bg": [44, 66, 86]
     },
