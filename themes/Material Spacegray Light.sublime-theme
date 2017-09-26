@@ -8,7 +8,7 @@
         "class": "title_bar",
         "settings": ["material_theme_title_bar"],
         "platforms": ["osx"],
-        "fg": [45, 45, 45],
+        "fg": [69, 90, 100],
         "bg": [231, 233, 236]
     },
 
